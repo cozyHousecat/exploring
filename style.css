@@ -2,6 +2,7 @@ img {
     /*initial style for img*/
     height: 50px;
     /*additional styles*/
+    opacity: 0.5;
 }
 
 body {
